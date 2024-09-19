@@ -1,0 +1,17 @@
+{
+  "name": "usdt-qr-code-generator",
+  "version": "1.0.0",
+  "description": "USDT QR Code Generator is a free online tool that quickly generates QR codes for your USDT addresses. It supports ERC-20, TRC-20, BEP-20, Omni, and BEP-2 networks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^5.4.6"
+  }
+}
